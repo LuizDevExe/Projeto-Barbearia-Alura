@@ -256,6 +256,9 @@ td, th {
 		width: auto;
 	}
 
+	.principal p {
+		padding: 0px 20px;
+	}
 
 	h1 {
 		text-align: center;
